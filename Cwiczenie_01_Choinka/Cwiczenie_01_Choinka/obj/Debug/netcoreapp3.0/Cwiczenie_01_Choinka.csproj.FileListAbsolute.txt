@@ -1,0 +1,11 @@
+D:\Studia\SiSzarp\GIT\Mateusz_Orzech_Lab_11\Cwiczenie_01_Choinka\Cwiczenie_01_Choinka\bin\Debug\netcoreapp3.0\Cwiczenie_01_Choinka.exe
+D:\Studia\SiSzarp\GIT\Mateusz_Orzech_Lab_11\Cwiczenie_01_Choinka\Cwiczenie_01_Choinka\bin\Debug\netcoreapp3.0\Cwiczenie_01_Choinka.deps.json
+D:\Studia\SiSzarp\GIT\Mateusz_Orzech_Lab_11\Cwiczenie_01_Choinka\Cwiczenie_01_Choinka\bin\Debug\netcoreapp3.0\Cwiczenie_01_Choinka.runtimeconfig.json
+D:\Studia\SiSzarp\GIT\Mateusz_Orzech_Lab_11\Cwiczenie_01_Choinka\Cwiczenie_01_Choinka\bin\Debug\netcoreapp3.0\Cwiczenie_01_Choinka.runtimeconfig.dev.json
+D:\Studia\SiSzarp\GIT\Mateusz_Orzech_Lab_11\Cwiczenie_01_Choinka\Cwiczenie_01_Choinka\bin\Debug\netcoreapp3.0\Cwiczenie_01_Choinka.dll
+D:\Studia\SiSzarp\GIT\Mateusz_Orzech_Lab_11\Cwiczenie_01_Choinka\Cwiczenie_01_Choinka\bin\Debug\netcoreapp3.0\Cwiczenie_01_Choinka.pdb
+D:\Studia\SiSzarp\GIT\Mateusz_Orzech_Lab_11\Cwiczenie_01_Choinka\Cwiczenie_01_Choinka\obj\Debug\netcoreapp3.0\Cwiczenie_01_Choinka.csprojAssemblyReference.cache
+D:\Studia\SiSzarp\GIT\Mateusz_Orzech_Lab_11\Cwiczenie_01_Choinka\Cwiczenie_01_Choinka\obj\Debug\netcoreapp3.0\Cwiczenie_01_Choinka.AssemblyInfoInputs.cache
+D:\Studia\SiSzarp\GIT\Mateusz_Orzech_Lab_11\Cwiczenie_01_Choinka\Cwiczenie_01_Choinka\obj\Debug\netcoreapp3.0\Cwiczenie_01_Choinka.AssemblyInfo.cs
+D:\Studia\SiSzarp\GIT\Mateusz_Orzech_Lab_11\Cwiczenie_01_Choinka\Cwiczenie_01_Choinka\obj\Debug\netcoreapp3.0\Cwiczenie_01_Choinka.dll
+D:\Studia\SiSzarp\GIT\Mateusz_Orzech_Lab_11\Cwiczenie_01_Choinka\Cwiczenie_01_Choinka\obj\Debug\netcoreapp3.0\Cwiczenie_01_Choinka.pdb
